@@ -20,7 +20,8 @@
 1. Открыть файл main.py и capitals.csv в PyCharm
 2. Указать телеграм токен вашего бота (API)
 3. Запустить программу 
-4. Запустить бот @BLYAD_GPT_bot
+4. Запустить бот
+
 ## Автор 
-Telegram: @SadPiza98 
+OpenVK: https://openvk.org/id31553
 
