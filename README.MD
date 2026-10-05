@@ -1,4 +1,4 @@
-# Telegram бот для игры в "Столицы"
+# Telegram-бот для игры в "Столицы"
 
 Телеграм бот написанный на Python с использованием
 библиотеки [telebot](https://github.com/python-telegram-bot/python-telegram-bot).
